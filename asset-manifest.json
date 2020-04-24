@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/waste-app/static/js/main.ff4cc0ca.chunk.js",
-    "main.js.map": "/waste-app/static/js/main.ff4cc0ca.chunk.js.map",
+    "main.js": "/waste-app/static/js/main.b4fb154e.chunk.js",
+    "main.js.map": "/waste-app/static/js/main.b4fb154e.chunk.js.map",
     "runtime-main.js": "/waste-app/static/js/runtime-main.2a964f94.js",
     "runtime-main.js.map": "/waste-app/static/js/runtime-main.2a964f94.js.map",
     "static/css/2.abebce0a.chunk.css": "/waste-app/static/css/2.abebce0a.chunk.css",
     "static/js/2.38fbdb6e.chunk.js": "/waste-app/static/js/2.38fbdb6e.chunk.js",
     "static/js/2.38fbdb6e.chunk.js.map": "/waste-app/static/js/2.38fbdb6e.chunk.js.map",
     "index.html": "/waste-app/index.html",
-    "precache-manifest.8b137d53369d0e588d17abf53eb3bd44.js": "/waste-app/precache-manifest.8b137d53369d0e588d17abf53eb3bd44.js",
+    "precache-manifest.9bcfda73e87fd9531bc4ade377b9fb33.js": "/waste-app/precache-manifest.9bcfda73e87fd9531bc4ade377b9fb33.js",
     "service-worker.js": "/waste-app/service-worker.js",
     "static/css/2.abebce0a.chunk.css.map": "/waste-app/static/css/2.abebce0a.chunk.css.map",
     "static/js/2.38fbdb6e.chunk.js.LICENSE.txt": "/waste-app/static/js/2.38fbdb6e.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.2a964f94.js",
     "static/css/2.abebce0a.chunk.css",
     "static/js/2.38fbdb6e.chunk.js",
-    "static/js/main.ff4cc0ca.chunk.js"
+    "static/js/main.b4fb154e.chunk.js"
   ]
 }
