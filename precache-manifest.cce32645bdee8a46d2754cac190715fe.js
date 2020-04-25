@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e7fa49919f42b409891512d6f2a85cc",
+    "revision": "cc28ea7fbec82b99dc72a2290f146762",
     "url": "/waste-app/index.html"
   },
   {
-    "revision": "e052483f5e41bdd99114",
+    "revision": "8a017ed88c93d96e3c84",
     "url": "/waste-app/static/css/2.abebce0a.chunk.css"
   },
   {
-    "revision": "93b4949fefb9de5c39a2",
+    "revision": "6f38fe2e376af5659c6c",
     "url": "/waste-app/static/css/main.8d6f2cd5.chunk.css"
   },
   {
-    "revision": "e052483f5e41bdd99114",
-    "url": "/waste-app/static/js/2.613a5125.chunk.js"
+    "revision": "8a017ed88c93d96e3c84",
+    "url": "/waste-app/static/js/2.9ac0dc71.chunk.js"
   },
   {
     "revision": "9545d2ff040f1d230f20c359158fcfad",
-    "url": "/waste-app/static/js/2.613a5125.chunk.js.LICENSE.txt"
+    "url": "/waste-app/static/js/2.9ac0dc71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "93b4949fefb9de5c39a2",
-    "url": "/waste-app/static/js/main.a7c33028.chunk.js"
+    "revision": "6f38fe2e376af5659c6c",
+    "url": "/waste-app/static/js/main.6fa53581.chunk.js"
   },
   {
     "revision": "23e2d1634356dea3df4f",
