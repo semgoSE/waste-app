@@ -1,31 +1,36 @@
 {
   "files": {
     "main.css": "/waste-app/static/css/main.8d6f2cd5.chunk.css",
-    "main.js": "/waste-app/static/js/main.dd171385.chunk.js",
-    "main.js.map": "/waste-app/static/js/main.dd171385.chunk.js.map",
+    "main.js": "/waste-app/static/js/main.562c8388.chunk.js",
+    "main.js.map": "/waste-app/static/js/main.562c8388.chunk.js.map",
     "runtime-main.js": "/waste-app/static/js/runtime-main.2a964f94.js",
     "runtime-main.js.map": "/waste-app/static/js/runtime-main.2a964f94.js.map",
     "static/css/2.abebce0a.chunk.css": "/waste-app/static/css/2.abebce0a.chunk.css",
-    "static/js/2.bdfc93de.chunk.js": "/waste-app/static/js/2.bdfc93de.chunk.js",
-    "static/js/2.bdfc93de.chunk.js.map": "/waste-app/static/js/2.bdfc93de.chunk.js.map",
+    "static/js/2.c6e2923a.chunk.js": "/waste-app/static/js/2.c6e2923a.chunk.js",
+    "static/js/2.c6e2923a.chunk.js.map": "/waste-app/static/js/2.c6e2923a.chunk.js.map",
     "index.html": "/waste-app/index.html",
-    "precache-manifest.a36cf41f4cdcc4428fe14526cddef747.js": "/waste-app/precache-manifest.a36cf41f4cdcc4428fe14526cddef747.js",
+    "precache-manifest.7778c2735882c772428af0a853d31cd7.js": "/waste-app/precache-manifest.7778c2735882c772428af0a853d31cd7.js",
     "service-worker.js": "/waste-app/service-worker.js",
     "static/css/2.abebce0a.chunk.css.map": "/waste-app/static/css/2.abebce0a.chunk.css.map",
     "static/css/main.8d6f2cd5.chunk.css.map": "/waste-app/static/css/main.8d6f2cd5.chunk.css.map",
-    "static/js/2.bdfc93de.chunk.js.LICENSE.txt": "/waste-app/static/js/2.bdfc93de.chunk.js.LICENSE.txt",
+    "static/js/2.c6e2923a.chunk.js.LICENSE.txt": "/waste-app/static/js/2.c6e2923a.chunk.js.LICENSE.txt",
+    "static/media/apple.png": "/waste-app/static/media/apple.32447e79.png",
     "static/media/bin.png": "/waste-app/static/media/bin.303e24db.png",
+    "static/media/bomb.png": "/waste-app/static/media/bomb.e4a2809d.png",
+    "static/media/conveer.png": "/waste-app/static/media/conveer.3d372761.png",
     "static/media/glass.png": "/waste-app/static/media/glass.3168a39b.png",
     "static/media/metal.png": "/waste-app/static/media/metal.86c04338.png",
     "static/media/other.png": "/waste-app/static/media/other.eba8e967.png",
     "static/media/paper.png": "/waste-app/static/media/paper.532879c5.png",
-    "static/media/plastic.png": "/waste-app/static/media/plastic.de4a7505.png"
+    "static/media/plastic.png": "/waste-app/static/media/plastic.de4a7505.png",
+    "static/media/sort.png": "/waste-app/static/media/sort.15eb27f1.png",
+    "static/media/waste.png": "/waste-app/static/media/waste.f8b25493.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2a964f94.js",
     "static/css/2.abebce0a.chunk.css",
-    "static/js/2.bdfc93de.chunk.js",
+    "static/js/2.c6e2923a.chunk.js",
     "static/css/main.8d6f2cd5.chunk.css",
-    "static/js/main.dd171385.chunk.js"
+    "static/js/main.562c8388.chunk.js"
   ]
 }
