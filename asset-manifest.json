@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/waste-app/static/css/main.8d6f2cd5.chunk.css",
-    "main.js": "/waste-app/static/js/main.c8aeafde.chunk.js",
-    "main.js.map": "/waste-app/static/js/main.c8aeafde.chunk.js.map",
+    "main.css": "/waste-app/static/css/main.70387925.chunk.css",
+    "main.js": "/waste-app/static/js/main.685ee4e0.chunk.js",
+    "main.js.map": "/waste-app/static/js/main.685ee4e0.chunk.js.map",
     "runtime-main.js": "/waste-app/static/js/runtime-main.7d1e03c0.js",
     "runtime-main.js.map": "/waste-app/static/js/runtime-main.7d1e03c0.js.map",
     "static/css/2.abebce0a.chunk.css": "/waste-app/static/css/2.abebce0a.chunk.css",
-    "static/js/2.a7cd4fa1.chunk.js": "/waste-app/static/js/2.a7cd4fa1.chunk.js",
-    "static/js/2.a7cd4fa1.chunk.js.map": "/waste-app/static/js/2.a7cd4fa1.chunk.js.map",
+    "static/js/2.82453d88.chunk.js": "/waste-app/static/js/2.82453d88.chunk.js",
+    "static/js/2.82453d88.chunk.js.map": "/waste-app/static/js/2.82453d88.chunk.js.map",
     "index.html": "/waste-app/index.html",
-    "precache-manifest.889b19abedef33d32d24e54dfc3661e6.js": "/waste-app/precache-manifest.889b19abedef33d32d24e54dfc3661e6.js",
+    "precache-manifest.f359032ac1692ce34e8c9c8dd53deddc.js": "/waste-app/precache-manifest.f359032ac1692ce34e8c9c8dd53deddc.js",
     "service-worker.js": "/waste-app/service-worker.js",
     "static/css/2.abebce0a.chunk.css.map": "/waste-app/static/css/2.abebce0a.chunk.css.map",
-    "static/css/main.8d6f2cd5.chunk.css.map": "/waste-app/static/css/main.8d6f2cd5.chunk.css.map",
-    "static/js/2.a7cd4fa1.chunk.js.LICENSE.txt": "/waste-app/static/js/2.a7cd4fa1.chunk.js.LICENSE.txt",
+    "static/css/main.70387925.chunk.css.map": "/waste-app/static/css/main.70387925.chunk.css.map",
+    "static/js/2.82453d88.chunk.js.LICENSE.txt": "/waste-app/static/js/2.82453d88.chunk.js.LICENSE.txt",
     "static/media/apple.png": "/waste-app/static/media/apple.32447e79.png",
     "static/media/bin.png": "/waste-app/static/media/bin.303e24db.png",
     "static/media/bomb.png": "/waste-app/static/media/bomb.e4a2809d.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.7d1e03c0.js",
     "static/css/2.abebce0a.chunk.css",
-    "static/js/2.a7cd4fa1.chunk.js",
-    "static/css/main.8d6f2cd5.chunk.css",
-    "static/js/main.c8aeafde.chunk.js"
+    "static/js/2.82453d88.chunk.js",
+    "static/css/main.70387925.chunk.css",
+    "static/js/main.685ee4e0.chunk.js"
   ]
 }
